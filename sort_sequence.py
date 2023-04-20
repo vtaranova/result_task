@@ -1,4 +1,4 @@
-def sort(sequence):
+def sort_seq(sequence):
     length = len(sequence)
     if length == 0:
         return []
