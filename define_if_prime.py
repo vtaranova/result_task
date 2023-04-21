@@ -1,5 +1,5 @@
 def is_prime(num):
-    div = 0
+    div = 1
     div_count = 0
     if num > 1:
         while div < num + 1:
